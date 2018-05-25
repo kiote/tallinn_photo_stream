@@ -4,7 +4,7 @@ date_default_timezone_set('UTC');
 require __DIR__.'/vendor/autoload.php';
 /////// CONFIG ///////
 $username = 'tallinn_photo_stream';
-$password = $_ENV["PASSWORD"];
+$password = getenv("PASSWORD");
 $debug = true;
 $truncatedDebug = false;
 //////////////////////
