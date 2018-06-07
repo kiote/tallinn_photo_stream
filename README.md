@@ -14,5 +14,5 @@ sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 
 ```
 npm i
-php composer.phar require mgp25/instagram-php
+composer require mgp25/instagram-php
 ```
