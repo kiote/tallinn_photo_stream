@@ -6,7 +6,7 @@ require __DIR__.'/vendor/autoload.php';
 $username = getenv("USERNAME");
 $password = getenv("PASSWORD");
 $debug = true;
-$truncatedDebug = false;
+$truncatedDebug = true;
 //////////////////////
 /////// MEDIA ////////
 $photoFilename = 'webcam.jpeg';
