@@ -7,6 +7,7 @@ post Tallinn photos to instagram
 
 ```
 wget https://getcomposer.org/installer -O composer-setup.php
+sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 ```
 
 ## install the rest of the stuff
