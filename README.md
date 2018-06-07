@@ -3,5 +3,7 @@ post Tallinn photos to instagram
 
 # Installation
 
-`npm i`
-`php composer.phar require mgp25/instagram-php`
+```
+npm i
+php composer.phar require mgp25/instagram-php
+```
