@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "download": "wget http://www.teletorn.ee/tmp/webcam.php -O webcam.jpg",
-    "berlin_download": "wget https://tv-turm.de/fileadmin/webcam/images.jpg -O webcam.jpg",
+    "download": "wget http://www.teletorn.ee/tmp/webcam.php -O webcam.jpeg",
+    "berlin_download": "wget https://tv-turm.de/fileadmin/webcam/images.jpg -O webcam.jpeg",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
