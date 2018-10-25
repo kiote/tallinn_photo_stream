@@ -5,12 +5,14 @@
   "main": "index.js",
   "scripts": {
     "download": "wget http://www.teletorn.ee/tmp/webcam.php -O webcam.jpeg",
+    "get_weather": "echo \"Not implemented\"",
+    "print_on_picture": "echo \"Not implemented\"", 
     "berlin_download": "wget https://tv-turm.de/fileadmin/webcam/images.jpg -O webcam.jpeg",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "instagram-private-api": "0.6.7"
+    "jimp": "^0.5.4"
   }
 }
