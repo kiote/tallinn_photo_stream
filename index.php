@@ -9,8 +9,8 @@ $debug = true;
 $truncatedDebug = true;
 //////////////////////
 /////// MEDIA ////////
-$photoFilename = 'webcam.jpeg';
-$captionText = '';
+$photoFilename = 'webcam.jpg';
+$captionText = 'Tallinn';
 //////////////////////
 $ig = new \InstagramAPI\Instagram($debug, $truncatedDebug);
 try {
